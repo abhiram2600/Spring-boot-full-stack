@@ -21,7 +21,7 @@ To set up the backend of the Book Social Network project, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/ali-bouali/book-social-network.git
+   git clone https://github.com/abhiram2600/Spring-boot-full-stack.git
 ```
 
 2. Run the docker-compose file
@@ -51,11 +51,3 @@ To set up the backend of the Book Social Network project, follow these steps:
 5. Access the API documentation using Swagger UI:
 
 Open a web browser and go to `http://localhost:8088/swagger-ui/index.html.
-
-## License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
-## Contributors
-
-- [Ali Bouali](https://github.com/ali-bouali)
